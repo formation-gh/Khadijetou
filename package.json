@@ -1,0 +1,13 @@
+{
+  "name": "khadijetou",
+  "version": "1.0.0",
+  "description": "End-to-end tests for formation-gh-api",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}
