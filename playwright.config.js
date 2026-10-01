@@ -4,5 +4,6 @@ module.exports = defineConfig({
   testDir: './tests',
   use: {
     baseURL: 'https://aouzgaga.github.io/formation-gh-api/',
+    ignoreHTTPSErrors: true,
   },
 });
